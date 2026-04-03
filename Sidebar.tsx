@@ -28,8 +28,7 @@ import {
   SidebarMenuButton,
   SidebarMenuItem,
 } from "@/components/ui/sidebar";
-import { Collapsible, CollapsibleTrigger } from "@/components/ui/collapsible";
-import { CollapsibleContent } from "@radix-ui/react-collapsible";
+import { Collapsible, CollapsibleTrigger, CollapsibleContent } from "@/components/ui/collapsible";
 
 //Client Page List
 const ClientItems = [
