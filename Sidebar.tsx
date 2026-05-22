@@ -110,7 +110,7 @@ const items = [
 
 export default function Side() {
   return (
-    <Sidebar collapsible="icon">
+    <Sidebar collapsible="icon" variant='inset'>
       <SidebarHeader>
         <Link href="/">
           <main className="flex justify-center items-center gap-5 pt-1">
